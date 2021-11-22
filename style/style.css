@@ -1,0 +1,41 @@
+/*.navbar-inverse {*/
+/*background-color: #343c94;*/
+/*}*/
+
+.author {
+  display: inline-block;
+  /*float: left;*/
+  margin-top: 10%;
+}
+
+.first-name {
+  background-color: blue;
+}
+
+.last-name {
+  background-color: red;
+}
+
+#movieTitle {
+  font-size: 40px;
+  color: rgb(63, 63, 63);
+}
+
+p {
+  color: rgb(63, 63, 63);
+}
+
+.rounded {
+  border: 1px rgb(117, 117, 117) solid;
+  border-radius: 5px;
+}
+
+#content {
+  border-radius: 4px;
+  background-color: rgb(235, 248, 255);
+  padding: 10px;
+}
+
+.directors {
+  border-radius: 10px !important;
+}
